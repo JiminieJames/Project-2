@@ -1,4 +1,9 @@
 Crowdfunding ETL Mini Project
+
+Team 13 James Brannan and John Haynes 
+
+The series of code was created in part between the two team members, Xpert AI and tutor Justin Moore
+
 Welcome to the Crowdfunding ETL Mini Project! In this project, you will work with a partner to build an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform data. Once transformed, you'll create CSV files, design an ERD and table schema, and finally, upload the data into a Postgres database.
 
 Project Overview
